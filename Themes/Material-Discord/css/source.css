@@ -1066,7 +1066,7 @@ html:not(.app-focused) .winButton_c38106.winButtonMinMax_c38106:after {
   background: var(--sidebar-panel-color) !important;
 }
 .activityPanel_c48ade .gameIcon__8c6c2 {
-  border-radius: 6%;
+  border-radius: 50%;
 }
 
 .listeningAlong_e0cf27 {
@@ -13606,7 +13606,7 @@ body:active .container__3dde2:not(:active) {
   background-color: var(--card-button-color);
 }
 .container__56cd1 .assetsLargeImage__16b66 {
-  border-radius: 5%;
+  border-radius: 10%;
 }
 
 /*
@@ -14662,7 +14662,7 @@ body:active .container_d9c882:not(:active) {
 }
 
 .assetsLargeImageSpotify__2ef49 {
-  border-radius: 50%;
+  border-radius: 10%;
 }
 
 /* USER POPOUT -> ROLES */
