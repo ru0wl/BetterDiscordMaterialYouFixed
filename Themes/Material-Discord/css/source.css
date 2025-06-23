@@ -1,7 +1,7 @@
 @import url("https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/fonts/google-sans.css");
 @import url("https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/icons.css");
 :root {
-  --app-font: "Google Sans";
+  --app-font: "Comic Sans MS";
   --app-bg: var(--main-alt);
   --app-watermark-one: "Material";
   --app-watermark-two: "Discord";
@@ -1066,7 +1066,7 @@ html:not(.app-focused) .winButton_c38106.winButtonMinMax_c38106:after {
   background: var(--sidebar-panel-color) !important;
 }
 .activityPanel_c48ade .gameIcon__8c6c2 {
-  border-radius: 50%;
+  border-radius: 6%;
 }
 
 .listeningAlong_e0cf27 {
