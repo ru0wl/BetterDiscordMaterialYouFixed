@@ -3371,7 +3371,7 @@ html:not(.app-focused) .winButton_c38106.winButtonMinMax_c38106:after {
  *
  */
 .UserDetails-activity-container img {
-  border-radius: 50%;
+  border-radius: 5%;
 }
 
 /*
